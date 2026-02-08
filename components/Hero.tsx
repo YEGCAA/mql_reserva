@@ -27,7 +27,7 @@ export const Hero: React.FC = () => {
         </div>
 
         <a 
-          href="https://wa.me/your-number-here" 
+          href="https://api.whatsapp.com/send?phone=5571991820024&text=Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Reserva%20do%20Sal" 
           target="_blank"
           rel="noopener noreferrer"
           className="mt-8 px-10 py-5 bg-secondary text-primary font-bold tracking-widest uppercase text-sm transition-all hover:bg-white hover:scale-105 active:scale-95 shadow-2xl flex items-center gap-3"
